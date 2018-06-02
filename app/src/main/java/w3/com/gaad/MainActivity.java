@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
             case R.id.recyclerviewbind_anjan_button:
                 c = com.aad.recyclerviewbinddata.MainActivity.class;
                 break;
+
+            case R.id.service_aziz_button:
+                c = eyesky.com.androidservice.MainActivity.class;
+                break;
         }
 
         if(c != null) {

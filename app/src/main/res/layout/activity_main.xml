@@ -29,4 +29,11 @@
         android:onClick="onClick"
         android:text="RecyclerViewBind - Anjan" />
 
+    <Button
+        android:id="@+id/service_aziz_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Services - Aziz" />
+
 </LinearLayout>
