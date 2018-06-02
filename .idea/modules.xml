@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aad.iml" filepath="$PROJECT_DIR$/aad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customviews-impl-major-arif/customviews-impl-major-arif.iml" filepath="$PROJECT_DIR$/customviews-impl-major-arif/customviews-impl-major-arif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customviews-major-arif/customviews-major-arif.iml" filepath="$PROJECT_DIR$/customviews-major-arif/customviews-major-arif.iml" />
       <module fileurl="file://$PROJECT_DIR$/jobscheduler-munna/jobscheduler-munna.iml" filepath="$PROJECT_DIR$/jobscheduler-munna/jobscheduler-munna.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewbinddata-anjan/recyclerviewbinddata-anjan.iml" filepath="$PROJECT_DIR$/recyclerviewbinddata-anjan/recyclerviewbinddata-anjan.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-aziz/service-aziz.iml" filepath="$PROJECT_DIR$/service-aziz/service-aziz.iml" />

@@ -36,4 +36,11 @@
         android:onClick="onClick"
         android:text="Services - Aziz" />
 
+    <Button
+        android:id="@+id/custom_views_major_arif_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="CustomViews - Major Arif" />
+
 </LinearLayout>

@@ -36,4 +36,5 @@ dependencies {
     implementation project(':widget-anjan')
     implementation project(':recyclerviewbinddata-anjan')
     implementation project(':service-aziz')
+    implementation project(':customviews-impl-major-arif')
 }
