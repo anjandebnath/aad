@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
 
             case R.id.alarm_manager_munna_button:
-//                c = Mainact
+                c = com.w3engineers.alarmmanager.alarmmanager.MainActivity.class;
                 break;
 
             case R.id.localization_arman_button:
