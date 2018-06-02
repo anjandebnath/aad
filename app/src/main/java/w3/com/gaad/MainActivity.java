@@ -18,4 +18,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this, com.example.android.jobscheduler.MainActivity.class));
 
     }
+
+    public void startWidget(View view) {
+
+        startActivity(new Intent(this, com.example.user06.androidwidgetaj.MainActivity.class));
+
+    }
 }

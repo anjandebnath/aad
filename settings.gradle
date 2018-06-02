@@ -1,2 +1,3 @@
 include ':app'
 include ':jobscheduler-munna'
+include ':widget-anjan'
