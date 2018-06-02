@@ -37,4 +37,5 @@ dependencies {
     implementation project(':recyclerviewbinddata-anjan')
     implementation project(':service-aziz')
     implementation project(':customviews-impl-major-arif')
+    implementation project(':loader-monir')
 }

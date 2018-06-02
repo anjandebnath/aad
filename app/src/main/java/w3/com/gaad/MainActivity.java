@@ -37,6 +37,10 @@ public class MainActivity extends AppCompatActivity {
             case R.id.custom_views_major_arif_button:
                 c = com.majorarif.customview.MainActivity.class;
                 break;
+
+            case R.id.loader_monir_button:
+                c = com.example.monir.loader.MainActivity.class;
+                break;
         }
 
         if(c != null) {
