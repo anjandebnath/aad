@@ -55,6 +55,10 @@ public class MainActivity extends AppCompatActivity {
             case R.id.localization_arman_button:
                 c = com.gaad.locale.MainActivity.class;
                 break;
+
+            case R.id.sharepref_arman_button:
+                c = com.left.gaad.fileiodemocode.MainActivity.class;
+                break;
         }
 
         if(c != null) {

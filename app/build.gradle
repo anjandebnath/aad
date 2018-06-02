@@ -41,4 +41,5 @@ dependencies {
     implementation project(':unittest-mimo')
     implementation project(':localization-arman')
     implementation project(':alarmmanager-munna')
+    implementation project(':sharedpref-arman')
 }
