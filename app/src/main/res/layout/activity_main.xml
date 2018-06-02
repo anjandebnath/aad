@@ -50,4 +50,11 @@
         android:onClick="onClick"
         android:text="Loader - Monir" />
 
+    <Button
+        android:id="@+id/unittest_mimo_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Unittest - Mimo" />
+
 </LinearLayout>

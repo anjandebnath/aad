@@ -1,9 +1,11 @@
 package w3.com.gaad;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import printershare.dynamixsoftware.com.unittesttools.RegistrationActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -40,6 +42,10 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.loader_monir_button:
                 c = com.example.monir.loader.MainActivity.class;
+                break;
+
+            case R.id.unittest_mimo_button:
+                c = RegistrationActivity.class;
                 break;
         }
 
