@@ -57,4 +57,18 @@
         android:onClick="onClick"
         android:text="Unittest - Mimo" />
 
+    <Button
+        android:id="@+id/alarm_manager_munna_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Alarmmanager - Munna" />
+
+    <Button
+        android:id="@+id/localization_arman_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Localization - Arman" />
+
 </LinearLayout>

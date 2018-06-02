@@ -39,4 +39,6 @@ dependencies {
     implementation project(':customviews-impl-major-arif')
     implementation project(':loader-monir')
     implementation project(':unittest-mimo')
+    implementation project(':localization-arman')
+    implementation project(':alarmmanager-munna')
 }

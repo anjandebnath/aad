@@ -47,6 +47,14 @@ public class MainActivity extends AppCompatActivity {
             case R.id.unittest_mimo_button:
                 c = RegistrationActivity.class;
                 break;
+
+            case R.id.alarm_manager_munna_button:
+//                c = Mainact
+                break;
+
+            case R.id.localization_arman_button:
+                c = com.gaad.locale.MainActivity.class;
+                break;
         }
 
         if(c != null) {
