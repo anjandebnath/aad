@@ -13,15 +13,26 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void startJobScheduler(View view) {
+    public void onClick(View view) {
+        if(view == null) return;
 
-        startActivity(new Intent(this, com.example.android.jobscheduler.MainActivity.class));
+        Class c = null;
+        switch (view.getId()) {
+            case R.id.job_scheduler_button:
+                c = com.example.android.jobscheduler.MainActivity.class;
+                break;
 
-    }
+            case R.id.widget_anjan_button:
+                c = com.example.user06.androidwidgetaj.MainActivity.class;
+                break;
 
-    public void startWidget(View view) {
+            case R.id.recyclerviewbind_anjan_button:
+                c = com.aad.recyclerviewbinddata.MainActivity.class;
+                break;
+        }
 
-        startActivity(new Intent(this, com.example.user06.androidwidgetaj.MainActivity.class));
-
+        if(c != null) {
+            startActivity(new Intent(this, c));
+        }
     }
 }

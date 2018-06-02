@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/aad.iml" filepath="$PROJECT_DIR$/aad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jobscheduler-munna/jobscheduler-munna.iml" filepath="$PROJECT_DIR$/jobscheduler-munna/jobscheduler-munna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewbinddata-anjan/recyclerviewbinddata-anjan.iml" filepath="$PROJECT_DIR$/recyclerviewbinddata-anjan/recyclerviewbinddata-anjan.iml" />
       <module fileurl="file://$PROJECT_DIR$/widget-anjan/widget-anjan.iml" filepath="$PROJECT_DIR$/widget-anjan/widget-anjan.iml" />
     </modules>
   </component>
