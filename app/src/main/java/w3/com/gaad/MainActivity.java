@@ -8,6 +8,7 @@ import android.view.View;
 import com.example.android.basicaccessibility.MainActivityAccessibilityArman;
 
 import printershare.dynamixsoftware.com.unittesttools.RegistrationActivity;
+import todolist.w3.com.contentprovider.MainActivity_Ccp_Arman;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -64,6 +65,10 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.accessibility_arman_button:
                 c = MainActivityAccessibilityArman.class;
+                break;
+
+            case R.id.custom_cp_arman_button:
+                c = MainActivity_Ccp_Arman.class;
                 break;
         }
 

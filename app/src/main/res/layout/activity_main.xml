@@ -85,4 +85,11 @@
         android:onClick="onClick"
         android:text="Acessibility - Arman" />
 
+    <Button
+        android:id="@+id/custom_cp_arman_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="CCP - Arman" />
+
 </LinearLayout>
