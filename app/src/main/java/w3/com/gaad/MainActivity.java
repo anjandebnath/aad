@@ -7,6 +7,7 @@ import android.view.View;
 
 import com.example.android.basicaccessibility.MainActivityAccessibilityArman;
 
+import conten.w3.com.todoclient.MainActivityCcp_Client;
 import printershare.dynamixsoftware.com.unittesttools.RegistrationActivity;
 import todolist.w3.com.contentprovider.MainActivity_Ccp_Arman;
 
@@ -69,6 +70,10 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.custom_cp_arman_button:
                 c = MainActivity_Ccp_Arman.class;
+                break;
+
+            case R.id.ccp_client_arman_button:
+                c = MainActivityCcp_Client.class;
                 break;
         }
 

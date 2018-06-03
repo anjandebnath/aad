@@ -44,4 +44,5 @@ dependencies {
     implementation project(':sharedpref-arman')
     implementation project(':accessibility-arman')
     implementation project(':ccp-arman')
+    implementation project(':ccp-client')
 }
