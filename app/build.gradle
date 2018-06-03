@@ -42,4 +42,5 @@ dependencies {
     implementation project(':localization-arman')
     implementation project(':alarmmanager-munna')
     implementation project(':sharedpref-arman')
+    implementation project(':accessibility-arman')
 }

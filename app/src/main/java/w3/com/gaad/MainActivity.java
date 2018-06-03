@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+import com.example.android.basicaccessibility.MainActivityAccessibilityArman;
+
 import printershare.dynamixsoftware.com.unittesttools.RegistrationActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -58,6 +60,10 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.sharepref_arman_button:
                 c = com.left.gaad.fileiodemocode.MainActivity.class;
+                break;
+
+            case R.id.accessibility_arman_button:
+                c = MainActivityAccessibilityArman.class;
                 break;
         }
 

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aad.iml" filepath="$PROJECT_DIR$/aad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessibility-arman/accessibility-arman.iml" filepath="$PROJECT_DIR$/accessibility-arman/accessibility-arman.iml" />
       <module fileurl="file://$PROJECT_DIR$/alarmmanager-munna/alarmmanager-munna.iml" filepath="$PROJECT_DIR$/alarmmanager-munna/alarmmanager-munna.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviews-impl-major-arif/customviews-impl-major-arif.iml" filepath="$PROJECT_DIR$/customviews-impl-major-arif/customviews-impl-major-arif.iml" />
